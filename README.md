@@ -1,2 +1,2 @@
-# 2024 ÇÏ°è PPS Camp
+# 2024 í•˜ê³„ PPS Camp
 ### Language: C++
