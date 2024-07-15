@@ -1,4 +1,4 @@
-// A140. 폰켄몬 - Baekjoon
+// A140. �룿耳꾨が - Programmers
 
 #include <vector>
 #include <unordered_set>
