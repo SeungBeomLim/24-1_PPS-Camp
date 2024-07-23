@@ -1,4 +1,4 @@
-// A177. 최소직사각형 - Programmers
+// A177. 理쒖냼吏곸궗媛곹삎 - Programmers
 
 #include <string>
 #include <vector>

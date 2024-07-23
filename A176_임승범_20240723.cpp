@@ -1,4 +1,4 @@
-// A176. 나머지가 1이 되는 수 찾기 - Programmers
+// A176. �굹癒몄��媛� 1�씠 �릺�뒗 �닔 李얘린 - Programmers
 
 #include <string>
 #include <vector>
